@@ -1,2 +1,2 @@
 # CollectionView - Programmatically
-This a short example how to create a CollectionView programmatically.
+This is a short example how to create a UICollectionView programmatically.
